@@ -1,17 +1,12 @@
-### Hey there! I'm Jackie. 
+### Hey there! I'm Jackie 😊
 
-- I'm an experienced Software Engineer currently working on ZusTime (Open-Source), Zustand's first Time-Travel Debugging Dev Tool and Component Hierarchy Visualizer. 
+- 👩‍💻I'm an experienced Software Engineer currently working on ZusTime (Open-Source), Zustand's first Time-Travel Debugging Dev Tool and Component Hierarchy Visualizer. 
 - 🌨 In my free time, I enjoy snowboarding, volleyball & building keyboards. 
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about ZusTime, I'd be happy to chat over some coffee or matcha.
+- 📫 jackquelineanguyen@gmail.com
+- 🤝 https://www.linkedin.com/in/jackquelinenguyen/
 
-<!-- ### Thanks for stopping by!  -->![zustime-official](https://user-images.githubusercontent.com/110419643/210855895-e5d86a5c-c90c-4e48-bb4e-50d26f80feb1.GIF)
+### Thanks for stopping by! 
 
 
 <!--
