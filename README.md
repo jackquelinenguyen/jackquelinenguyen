@@ -2,9 +2,9 @@
 
 - 👩‍💻I'm a Software Engineer currently working on ZusTime (Open-Source), Zustand's first Time-Travel Debugging Dev Tool and Component Hierarchy Visualizer. 
 - 🌨 In my free time, I enjoy snowboarding, volleyball & building keyboards. 
-- 💬 Ask me about ZusTime, I'd be happy to chat over some coffee or matcha.
-- 📫 jackquelineanguyen@gmail.com
-- 🤝 https://www.linkedin.com/in/jackquelinenguyen/
+- 🌱 Ask me about ZusTime, I'd be happy to chat over some coffee or matcha.
+- 📩 jackquelineanguyen@gmail.com
+- 🌟 https://www.linkedin.com/in/jackquelinenguyen/
 
 ### Thanks for stopping by! 
 
