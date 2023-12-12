@@ -1,8 +1,8 @@
 ### Hey there! I'm Jackie 😊
 
-- 👩🏻‍💻 I'm a Software Engineer currently working at PlayStation.
-- 🔭 Previously, I was one the co-creators of ZusTime, a time travel debugger and component hierarchy visualizer for React/Zustand applications. Check it out below!
-- 🌨 In my free time, I enjoy snowboarding, volleyball & building keyboards. 
+- 👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!
+- 🌨 Previously, I was one the co-creators of ZusTime, a time travel debugger and component hierarchy visualizer for React/Zustand applications. Check it out below!
+- 🎧 In my free time, I enjoy snowboarding, volleyball & gaming. 
 - 🌟 https://www.linkedin.com/in/jackquelinenguyen/
 
 ### Thanks for stopping by! 
