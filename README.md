@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center;">
+<div align="center">
   <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/6237680e-f81d-44eb-b5c9-ac9233158b9f" alt="Image" width="300" height="300" style="margin-right: 20px;">
   <div>
-    <h1>Hey there! I'm Jackie 😊</h1>
+    <h1>Hi there, I'm Jackie 😊</h1>
     <div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
     <div>🌨 Gamer, cat-lover, coffee drinker & coder. </div>
     <div>🌟 <a href="https://www.linkedin.com/in/jackquelinenguyen/">LinkedIn</a></div>
