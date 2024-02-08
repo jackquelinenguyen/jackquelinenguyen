@@ -1,12 +1,13 @@
-<div align="center">
-<img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/3231285a-3f8d-4cf8-aeb4-cfb8551ec074" width="750" alt="anim2">
-<h1>Hey there! I'm Jackie 😊</h1>
-<div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
-<div>🌨 Gamer, cat-lover, coffee drinker & coder. </div>
-<div>🌟 https://www.linkedin.com/in/jackquelinenguyen/</div>
-<h2>thanks for stopping by : )</h2>
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/6237680e-f81d-44eb-b5c9-ac9233158b9f" alt="Image" width="300" height="300" style="margin-right: 20px;">
+  <div>
+    <h1>Hey there! I'm Jackie 😊</h1>
+    <div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
+    <div>🌨 Gamer, cat-lover, coffee drinker & coder. </div>
+    <div>🌟 <a href="https://www.linkedin.com/in/jackquelinenguyen/">LinkedIn</a></div>
+    <h2>Thanks for stopping by! : )</h2>
+  </div>
 </div>
-
 
 <!--
 **jackquelinenguyen/jackquelinenguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
