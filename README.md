@@ -1,14 +1,11 @@
-### Hey there! I'm Jackie 😊
-
-<img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/eaac3fb7-9909-43e4-bbc7-eccf262e17c3" width="400" alt="anim2">
-
-
-
-- 👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!
-- 🌨 Gamer, cat-lover, coffee drinker & coder. 
-- 🌟 https://www.linkedin.com/in/jackquelinenguyen/
-
-### Thanks for stopping by! 
+<div align="center">
+<img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/3231285a-3f8d-4cf8-aeb4-cfb8551ec074" width="900" alt="anim2">
+<h1>Hey there! I'm Jackie 😊</h1>
+<div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
+<div>🌨 Gamer, cat-lover, coffee drinker & coder. </div>
+<div>🌟 https://www.linkedin.com/in/jackquelinenguyen/</div>
+<h2>thanks for stopping by : )</h2>
+</div>
 
 
 <!--
@@ -25,4 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
