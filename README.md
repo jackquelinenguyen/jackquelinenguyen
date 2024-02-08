@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/3231285a-3f8d-4cf8-aeb4-cfb8551ec074" width="900" alt="anim2">
+<img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/3231285a-3f8d-4cf8-aeb4-cfb8551ec074" width="750" alt="anim2">
 <h1>Hey there! I'm Jackie 😊</h1>
 <div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
 <div>🌨 Gamer, cat-lover, coffee drinker & coder. </div>
