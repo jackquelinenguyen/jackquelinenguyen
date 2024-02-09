@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/6237680e-f81d-44eb-b5c9-ac9233158b9f" alt="Image" width="300" height="300" style="margin-right: 20px;">
+  <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/0b8f86a0-eb0e-42c7-a018-3069a4d06ca1" alt="Jackie-Banner">
   <div>
     <h1>Hi there, I'm Jackie 😊</h1>
     <div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
