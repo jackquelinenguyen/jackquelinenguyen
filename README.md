@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/0b8f86a0-eb0e-42c7-a018-3069a4d06ca1" alt="Jackie-Banner">
+  <img src="https://github.com/jackquelinenguyen/jackquelinenguyen/assets/110419643/0b8f86a0-eb0e-42c7-a018-3069a4d06ca1" alt="Jackie-Banner" width="62%" height="58%">
   <div>
     <h1>Hi there, I'm Jackie 😊</h1>
     <div>👩🏻‍💻 I'm a Software Engineer building fun things at PlayStation!</div>
